@@ -38,6 +38,7 @@ public class Calendar2 {
                 System.out.print("  ");
                 if (i % 7 == 0)
                     System.out.println();
+                //뭐가 잘못됨
             }
 
 
